@@ -1,0 +1,194 @@
+/* Navigation section */
+
+.item{
+    padding: 4%;
+}
+ul li a{
+    padding: 2px;
+    FONT-SIZE: 16PX;
+    margin: 5px;
+}
+.dropdown{
+    display: none;
+    width: 20px;
+    margin-left: 19px;
+}
+.Search{
+    display: none;
+}
+
+/* Slideshow container  */
+#mySlides::before{
+    top: 39px;
+    height: 78%;
+}
+#mySlides{
+    padding: 0px;
+    margin-top: 0px;
+}
+.h-primary{
+    font-size: 15px;
+    margin-top: 298px;
+}
+#mySlides p{
+    font-size: 12px;
+}
+
+/* The band section */
+.images{
+    display: flex;
+    flex-direction: column;
+}
+.para2{
+    font-size: 11px;
+    margin-top: 29px;
+    margin-left: 29px;
+    margin-right: 22px;
+}
+.h-secondery {
+    margin-bottom: 48px;
+    margin-top: 225px;
+}
+.para3{
+    margin-left: 173px;
+    font-size: 18px;
+    margin-top: 53px;
+}
+.image1 img {
+    width: 62%;
+    margin-left: 73px;
+}
+.item-1{
+    margin-left: -150px;
+    margin-right: -155px;
+}
+#tour{
+    width: 100%;
+}
+div.para6{
+    width: 75%;
+    height: 55%;
+    margin-left: -3px;
+    margin-top: 9px;
+}
+div.para5{
+    height: 50%;
+    margin-left: -2px;
+    margin-top: 12px;
+}
+div.para7{
+    display: none;
+}
+.ticket-3 img{
+    display: none;
+}
+.ticket-1 img{
+    margin-left: 35px;
+    margin-top: 8px;
+    width: 76%;
+    height: 23%;
+}
+.ticket-2 img{
+    width: 79%;
+    height: 23%;
+    margin-left: 10px;
+
+}
+p.time{
+    display: none;
+}
+p.time1{
+    display: none;
+}
+p.newyork {
+    margin-top: -451px;
+    margin-left: -44px;
+    margin-bottom: 111px;
+    font-size: 27px;
+}
+p.date {
+    margin-left: -7px;
+    margin-top: -98px;
+    margin-bottom: 19px;
+}
+
+.btn {
+    margin-top: 30px;
+    margin-left: -21px;
+    margin-bottom: -371px;
+    padding: 7px;
+}
+p.paris {
+    margin-top: 58px;
+    margin-left: 83px;
+    font-size: 29px;
+    margin-bottom: 36px;
+
+}
+p.date1 {
+    margin-left: 32px;
+    margin-top: -21px;
+    margin-bottom: 30px;
+    margin-right: -39px;
+}
+.btn1 {
+    margin-top: 19px;
+    margin-bottom: 170px;
+    margin-left: 39px;
+    padding: 7px;
+    margin-right: -43px;
+}
+
+/* Contact SEction  */
+#contact{
+    padding-top: 22px;
+}
+#contact h2 {
+    font-size: 32px;
+}
+#contact p {
+    font-size: 16px;
+}
+.US {
+    margin-left: 376px;
+    margin-top: 73px;
+    font-size: 12px;
+}
+.name {
+    padding: 3px;
+    margin-left: -144px;
+    width: 66%;
+    margin-bottom: 2px;
+    margin-top: 63px;
+    margin-right: 115px;
+}
+.email {
+    padding: 3px;
+    margin-left: -184px;
+    width: 95%;
+    margin-top: 54px;
+    margin-right: 111px;
+    margin-bottom: -41px;
+}
+.msg {
+    margin-left: 531px;
+    margin-top: 17px;
+    padding: 4px;
+    width: 198px;
+    margin-right: 370px;
+}
+.btn3{
+    margin-left: 588px;
+    margin-top: 31px;
+    padding: 7px;
+    width: 73px;
+    margin-right: 81px;
+}
+
+/* footer  */
+.foot{
+    margin-top: -4px;
+    padding: 10px;
+    font-size: 12px;
+}
+
